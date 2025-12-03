@@ -1,5 +1,5 @@
 [phases.setup]
-nixPkgs = ['php82', 'nginx']
+nixPkgs = ['php81', 'nginx']
 
 [phases.install]
 cmds = [
